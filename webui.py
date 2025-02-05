@@ -22,7 +22,6 @@ from browser_use.browser.context import (
     BrowserContextWindowSize,
 )
 from langchain_ollama import ChatOllama
-from playwright.async_api import async_playwright
 from src.utils.agent_state import AgentState
 
 from src.utils import utils
